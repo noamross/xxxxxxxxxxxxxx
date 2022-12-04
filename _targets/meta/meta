@@ -1,0 +1,13 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+all_plot_files|stem|2bb339e1379dddd2|ca8c3bdf2c491bee|a3dad144c40657ed|1683656025||t19330.0664138136s|7c851447131a82e3|30|qs|local|vector|||0.001||
+analysis_targets|object|1eb1bc8d77111ded|||||||||||||||
+data_targets|object|1eb1bc8d77111ded|||||||||||||||
+output_targets|object|0639094eddc12c5e|||||||||||||||
+outputs_readme|stem|fade0974d3b7f881|ce3f46f973418351|e2e7d586901917cb|1833669539|outputs/README.md*outputs/README.Rmd|t19330.0664510967s|1abb80ea62812447|882|file|local|vector|||0.35||
+plan_targets|stem|0e931659ee93554e|98a51661f84e14d7|ef46db3751d8e999|156766894|_targets.R|t19330.0663068473s|2d214356c7805c7d|1303|file|local|vector|||0||
+plot_file_targets|object|1eb1bc8d77111ded|||||||||||||||
+plot_targets|object|1eb1bc8d77111ded|||||||||||||||
+readme|stem|74353a72a6f356fa|31fc094621a0e47e|7d14aa92d8de9a92|-165896733|README.md*README.Rmd|t19330.0664467526s|1315b7c81f5e55ca|7025|file|local|vector|||2.865||
+report_template|stem|c3300f9df29bb96b|06025d7e3c4d4fba|4745aa592080ea1d|1893399057|reports/report-template.html*reports/report-template.Rmd|t19330.0664120343s|8199b02380702315|627745|file|local|vector|||0.5||
+summarize_quantities|function|7ed4ac9e5b167ff5|||||||||||||||
+summarized_quantities|stem|c2ad3a635bd6d615|20b006d6588ac8c6|b28570204b38972e|1600875836||t19330.0664137s|a96c250e4b19e03e|54|qs|local|vector|||0.001||
